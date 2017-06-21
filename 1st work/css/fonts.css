@@ -1,0 +1,45 @@
+@font-face {
+	font-family: "RobotoSlab-Regular";
+	src: url("fonts/RobotoSlab-Regular/RobotoSlab-Regular.eot");
+	src: url("fonts/RobotoSlab-Regular/RobotoSlab-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/RobotoSlab-Regular/RobotoSlab-Regular.woff") format("woff"),
+			 url("fonts/RobotoSlab-Regular/RobotoSlab-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "DroidSerif-Italic";
+	src: url("fonts/DroidSerif-Italic/DroidSerif-Italic.eot");
+	src: url("fonts/DroidSerif-Italic/DroidSerif-Italic.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/DroidSerif-Italic/DroidSerif-Italic.woff") format("woff"),
+			 url("fonts/DroidSerif-Italic/DroidSerif-Italic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Montserrat-Regular";
+	src: url("fonts/Montserrat-Regular/Montserrat-Regular.eot");
+	src: url("fonts/Montserrat-Regular/Montserrat-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/Montserrat-Regular/Montserrat-Regular.woff") format("woff"),
+			 url("fonts/Montserrat-Regular/Montserrat-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}@font-face {
+	font-family: "LiberationSans";
+	src: url("fonts/LiberationSans/DroidLiberationSans.eot");
+	src: url("fonts/DroidLiberationSans/DroidLiberationSans.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/DroidLiberationSans/DroidLiberationSans.woff") format("woff"),
+			 url("fonts/DroidLiberationSans/DroidLiberationSans.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family:"Satisfy";
+	src: url("fonts/Satisfy/Satisfy.eot");
+	src: url("fonts/Satisfy/Satisfy.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/Satisfy/Satisfy.woff") format("woff"),
+			 url("fonts/Satisfy/Satisfy.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+

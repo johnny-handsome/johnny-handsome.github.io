@@ -1,0 +1,217 @@
+
+/*==========  Desktop First  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+   .section-2, .section-3, .section-4, .section-5, .section-6, .section-contactUs {
+  padding-top:75px;
+  padding-bottom: 75px;
+}
+.section1-content {
+  left:23%;
+}
+.section1-content h1 {
+  font-size:65px;
+}
+.section-3 .container .column {
+  width: 42%;
+}
+.section-4 .container .column {
+  margin-top: -50px;
+}
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+.section1-content h2 {
+  font-size:30px;
+}
+.section1-content h1 {
+  font-size:55px;
+}
+.heading-content {
+  margin-bottom: 60px;
+}
+.heading-content h2 {
+font-size:35px;
+}
+.heading-content p {
+   font-size:16px;
+}
+.section-3 .container .column {
+  width: 49%;
+}
+.section-4 .container .secondRow {
+  margin-top: -73px;
+}
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+.column {
+  width: 50%;
+  margin-top: -20px;
+}
+.section-3 .container .column:first-child {
+  margin-top: 0;
+}
+.section-3 .container .column {
+  width: 65%;
+  margin-top: 10px;
+}
+.section-4 .btn-circle {
+font-size:17px;
+}
+.section-4 .column h3:first-child {
+  margin-top: 0;
+}
+.section-4 .column h3 {
+  font-size:17px;
+  margin-top: -10px;
+}
+.section-4 .column p {
+  font-size:13px;
+  margin-top: -10px;
+}
+.section-5 .section5-circle-wrap {
+  display: block;
+  margin-bottom: 35px;
+}
+.section-5 .section5-circle {
+  margin: 0 auto;
+}
+.partners {
+  padding:45px 0;
+}
+.partners ul li {
+margin-left: 20px;
+margin-right: 20px;
+}
+.section-contactUs .form-wrap  form input {
+  display: block;
+  width: 290px;
+  height: 45px;
+  margin-bottom: 25px;
+}
+.section-contactUs .form-wrap form textarea {
+height: 185px;
+width: 290px;
+padding-top: 20px;
+  padding-left: 25px;
+}
+.section-contactUs form {
+  font-size:13px;
+}
+.section-contactUs .form-wrap {
+  width: 768px;
+  height: auto;
+  margin-left:75px;
+}
+footer {
+  padding: 25px;
+}
+ .mobile-toggle {
+    display: block;
+  }
+ .logo {
+  display: none;
+ }
+ nav ul li {
+  display: none;
+ }
+ .sticky {
+  padding-bottom: 20px;
+ }
+ .section1-content h2 {
+  font-size:25px;
+}
+.section1-content h1 {
+  font-size:45px;
+}
+.section1-content {
+  left:22%;
+}
+.section1-content button {
+width: 230px;
+height: 50px;
+font-size:17px;
+}
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    .section-2, .section-3, .section-4, .section-5, .section-6, .section-contactUs {
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+ .heading-content {
+  margin-bottom: 60px;
+}
+.heading-content h2 {
+font-size:30px;
+}
+.heading-content p {
+   font-size:14px;
+}
+.column {
+  width: 82%;
+  margin-top: -20px;
+}
+.section-3 .container .column {
+  width: 100%;
+  margin-top: 10px;
+}
+.section-4 .hide {
+display: none;
+}
+.section-4 .heading-content p {
+  margin-bottom: 100px;
+}
+.section-4 .img-circle-wrap {
+margin: 0 auto 140px auto;
+display: block;
+}
+.section-4 .btn-circle {
+margin: -45px auto 0 auto;
+}
+.partners {
+  padding:45px 0;
+}
+.partners ul li {
+display: block;
+margin-bottom: 20px;
+}
+.section-contactUs .form-wrap  form input {
+  display: block;
+  width: 295px;
+  height: 45px;
+  margin-bottom: 25px;
+}
+.section-contactUs .form-wrap form textarea {
+height: 185px;
+width: 295px;
+margin-left: -185px;
+padding-top: 20px;
+  padding-left: 25px;
+}
+.section-contactUs form {
+  float: none;
+  font-size:13px;
+}
+.section-contactUs .form-wrap {
+  width: 480px;
+  height: auto;
+  margin-left: 95px;
+}
+ .section1-content h2 {
+  font-size:23px;
+}
+.section1-content h1 {
+  font-size:37px;
+}
+.section1-content {
+  left:9%;
+}
+.section1-content button {
+width: 220px;
+height: 50px;
+font-size:16px;
+}
+}
