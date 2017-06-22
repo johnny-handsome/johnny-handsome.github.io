@@ -28,11 +28,9 @@ $('.header li a').click(function() {
         $('.header').removeClass('open-nav');
     }
 });
-
-// navigation scroll lijepo radi materem
 $('nav ul li a').click(function(event) {
     var id = $(this).attr("href");
-    var offset = 70;
+    var offset = 65;
     var target = $(id).offset().top - offset;
     $('html, body').animate({
         scrollTop: target

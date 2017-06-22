@@ -1,0 +1,18 @@
+@font-face {
+	font-family: "OpenSans-Bold";
+	src: url("fonts/OpenSans-Bold/OpenSans-Bold.eot");
+	src: url("fonts/OpenSans-Bold/OpenSans-Bold.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/OpenSans-Bold/OpenSans-Bold.woff") format("woff"),
+			 url("fonts/OpenSans-Bold/OpenSans-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Pacifico";
+	src: url("fonts/Pacifico/Pacifico.eot");
+	src: url("fonts/Pacifico/Pacifico.eot?#iefix") format("embedded-opentype"),
+			 url("fonts/Pacifico/Pacifico.woff") format("woff"),
+			 url("fonts/Pacifico/Pacifico.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
